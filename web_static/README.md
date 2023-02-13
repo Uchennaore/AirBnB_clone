@@ -2,11 +2,6 @@
 
 ### Contents
 
-* [Description]()
-* [Files in This Repository]()
-* [Technologies Used]()
-* [Authors]()
----
 
 ### Description
 This Directory contains the code for the second step of this whole project: web static. As can be seen in the following image of the stack and architecture we will be using for this project, the web static part of the AirBnB clone will be the front end of the application, it will serve as the core of the front-end side and will be written in HTML, CSS.
@@ -20,7 +15,7 @@ This directory contains files pertaining to the front-end side of the AirBnB clo
 | File                   | File Hierarchy                                       | Description
 |------------------------|------------------------------------------------------|--------------------------------------|
 | `0-index.html`         | 0-index.html			                        | Displaying header and footer         |
-| `1-index.html`          | [models/amenity.py](models/amenity.py)               | The amenity subclass                 |
+| `1-index.html`          |                                                     | The amenity subclass                 |
 
 ---
 
