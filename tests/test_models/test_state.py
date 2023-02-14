@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 module contains test
-for state
+for state.
 """
 import unittest
 import os
