@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-module inherits from BaseModel
+module inherits from BaseModel.
 """
 from models.base_model import BaseModel
 
