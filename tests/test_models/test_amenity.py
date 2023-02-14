@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-module testing amenity
+module testing amenity.
 """
 import unittest
 import os
