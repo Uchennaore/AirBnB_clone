@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 This module contains test for
-places
+places.
 """
 import unittest
 import os
