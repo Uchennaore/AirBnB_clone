@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 This module contains the command interpeter
-for managing Airbnb files
+for managing Airbnb files.
 """
 import cmd
 import models
