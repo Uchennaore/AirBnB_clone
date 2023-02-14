@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-module to test city
+module to test city.
 """
 import unittest
 import os
