@@ -6,7 +6,7 @@ import models
 
 """
 Base class for all models will contain id, created_at
-and updated at attributes. Save() and to_json() methods
+and updated at attributes. Save() and to_json() methods.
 """
 
 
