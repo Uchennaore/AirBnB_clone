@@ -27,7 +27,7 @@ class TestUser(unittest.TestCase):
 
     def test_style_check(self):
         """
-        Tests pep8 style
+        Tests pep8  style
         """
         style = pep8.StyleGuide(quiet=True)
         p = style.check_files(['models/user.py'])
