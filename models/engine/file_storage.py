@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 This module contains code related to file storage
-for the airbnb clone project. A json data format
+for the airbnb clone project.  A json data format
 for serialization and deserialization of data.
 """
 import json
