@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Unittest to test FileStorage class
+Unittest to test FileStorage class.
 """
 import unittest
 import pep8
