@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-module test for console
+module test for console.
 """
 import unittest
 from unittest.mock import patch
