@@ -1,0 +1,14 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 1em;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+body div.container
+{
+    position: relative;
+    margin: 3em auto 3em auto;
+}
